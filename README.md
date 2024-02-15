@@ -19,7 +19,7 @@ It lets you view colors in the terminal
 
  - zig
 
-You'll also need an ansi 24bit color terminal to run it
+You'll also need an ansi 24bit color terminal to run it. (Most modern terminal emulators support it.)
 
 ### Build command:
 
